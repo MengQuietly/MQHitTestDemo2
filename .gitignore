@@ -19,6 +19,7 @@ xcuserdata/
 
 ## Other
 *.moved-aside
+<<<<<<< HEAD
 
 # 忽略DSStore文件
 .DS_Store
@@ -35,6 +36,9 @@ xcshareddata/
 # 忽略`Pods/`和`Podfile.lock`
 Pods/
 Podfile.lock
+=======
+*.xcuserstate
+>>>>>>> a7545c64a2a11b41216b45cb8c44a7283c39fbbc
 
 ## Obj-C/Swift specific
 *.hmap
@@ -45,6 +49,10 @@ Podfile.lock
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
+<<<<<<< HEAD
+=======
+
+>>>>>>> a7545c64a2a11b41216b45cb8c44a7283c39fbbc
 # Swift Package Manager
 #
 # Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
